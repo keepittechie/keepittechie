@@ -84,7 +84,4 @@
 ---
 
 Keep learning, keep growing, and keep it techie!
-
----
-
 © 2024 KeepItTechie. All rights reserved.
