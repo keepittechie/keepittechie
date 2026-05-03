@@ -30,10 +30,12 @@ I’ve helped millions of people get started with Linux and IT.
 
 These are active and evolving projects:
 
-- 🧩 **KITpro OS (In Progress)**  
+- 🧩 **KITpro OS (In Progress)**
+  https://os.kitpro.us  
   Custom Rocky Linux-based distro focused on XFCE, performance, and real-world usability  
 
-- 🔐 **DTrust**  
+- 🔐 **DTrust**
+  https://distrotrust.io  
   Linux distribution trust auditing system with scoring, tiers, and public reports  
 
 - 🧪 **Linux+ Practice Tests**  
@@ -45,7 +47,7 @@ These are active and evolving projects:
   Central knowledge base for guides, scripts, and walkthroughs
 
 - ✍️ **KeepItTechie Blog**  
-  https://docs.keepittechie.com  
+  https://blog.kitpro.us  
   Deep dives, tutorials, and technical breakdowns
 
 ---
