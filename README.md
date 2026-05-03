@@ -1,6 +1,6 @@
 # KeepItTechie
 
-![KeepItTechie Logo](https://your-image-url.com/logo.png)
+![KeepItTechie Logo](https://keepittechie.com/_next/image?url=%2Flogo.png&w=256&q=75)
 
 ## Welcome to KeepItTechie!
 
